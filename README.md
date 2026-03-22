@@ -1,5 +1,4 @@
-# Task_06_Deep_Fake
-
+WNBA_Insights_using_Deep_Fake_Technology
 
 ## Overview
 This project is based on my earlier basketball dataset analysis (WNBA 2018–2022) and I turned it into a “deep fake” style interview. The main focus is on the process: analyzing the data, creating a narrative, and then presenting the results in an interview format.
